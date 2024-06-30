@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "vision_models"
+  site-url: "https://HasanGoni.github.io/vision_models"
+  description: "New computer vision models will be tried"
+  repo-branch: main
+  repo-url: "https://github.com/HasanGoni/vision_models"
